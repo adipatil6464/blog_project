@@ -16,6 +16,9 @@ frozenlist==1.3.3
 idna==3.4
 multidict==6.0.4
 mysql-connector-python==8.0.33
+mysql==0.0.3
+mysql-connector==2.2.9
+mysqlclient==2.2.0
 openai==0.28.1
 Pillow==9.5.0
 platformdirs==3.10.0
@@ -30,3 +33,4 @@ tzdata==2023.3
 urllib3==2.0.7
 virtualenv==20.24.3
 yarl==1.9.2
+
